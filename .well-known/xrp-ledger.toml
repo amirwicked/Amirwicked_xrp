@@ -4,5 +4,5 @@ network = "main"
 desc = "Main XRP Wallet"
 
 [[ORG]]
-name = "XRP adress"
+name = "xrp adress"
 website = "https://amirwicked.github.io/Amirwicked_xrp"
