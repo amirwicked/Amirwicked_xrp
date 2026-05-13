@@ -1,0 +1,8 @@
+[[ACCOUNTS]]
+address = "rJSyyaM6gqSerVzPz3oLJVmDWGUZHshMp1"
+network = "main"
+desc = "Main XRP Wallet"
+
+[[ORG]]
+name = "XRP adress"
+website = "https://amirwicked.github.io/Amirwicked_xrp"
